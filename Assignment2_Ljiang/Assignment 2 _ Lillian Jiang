@@ -1,0 +1,10 @@
+Assignment 2 - Lillian Jiang
+
+Assignment 2 integrates delay, FM, Granubuf~, and filters together, making a simple instrumental patch.
+
+It has three parts. 
+1. Drum Part. 
+	There are two fundamental beats to choose. It has filter and delay to control.
+2. Keyboard Control Part.
+	It has a filter, and delay to control also.
+3. Granubuf Synthesis.
